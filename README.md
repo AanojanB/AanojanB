@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🤑
 I'm Aanojan Bharathkumar, a student at Western Technical-Commercial School
 
 - 📫 How to reach me: aanojan.bharathkumar@student.tdsb.on.ca
