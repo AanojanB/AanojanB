@@ -16,4 +16,5 @@ I like anime, video games, and computers in general.  I like soulsborne games, B
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AanojanB&theme=neon-dark)](https://git.io/streak-stats)
 ![AanojanB's Stats](https://github-readme-stats.vercel.app/api?username=AanojanB&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 ![AanojanB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AanojanB&theme=midnight-purple&hide_border=false)
+
 ![AanojanB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AanojanB&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
