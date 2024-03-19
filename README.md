@@ -12,3 +12,5 @@ I like anime, video games, and computers in general.  I like soulsborne games, B
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AanojanB&theme=neon-dark)](https://git.io/streak-stats)
