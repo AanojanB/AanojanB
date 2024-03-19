@@ -1,5 +1,5 @@
 # Hi there 🤑
-I'm Aanojan Bharathkumar, a student at Western Technical-Commercial School
+I'm Aanojan Bharathkumar
 
 - 📫 How to reach me: aanojan.bharathkumar@student.tdsb.on.ca
 - 😄 Pronouns: he/him
